@@ -1,0 +1,1 @@
+bizuteria-eshop-scraper
